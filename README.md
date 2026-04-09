@@ -1,0 +1,5 @@
+- ทำให้ flow นี้ปลอดภัย 100%
+- กันยิงซ้ำ (idempotent)
+- sync stock ถูกต้อง
+- ไม่ recalculation discount หลังจ่ายเงิน
+- 
